@@ -1,4 +1,4 @@
-GoldGuard/
+Real-time-Yield-Calculator-and-Price-Alert-Bot-for-Gold-Trading/
 ├── api/
 │   ├── alpha_vantage.py          # Script to interact with Alpha Vantage API
 │   └── line_messaging.py         # Script to interact with LINE Messaging API
