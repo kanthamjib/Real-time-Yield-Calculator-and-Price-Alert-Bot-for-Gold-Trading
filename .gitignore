@@ -1,3 +1,32 @@
+# Log files
+*.log
+
+# Database files
+*.sqlite3
+*.db
+
+# Private keys and certificates
+*.pem
+*.key
+
+# Secrets or credentials files
+credentials.json
+secrets.json
+
+# Instance/Storage folders
+instance/
+storage/
+
+# Backup files
+*.bak
+*.backup
+
+# Environment files
+.env
+
+# Config files with sensitive information
+app/config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
